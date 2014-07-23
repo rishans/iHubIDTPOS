@@ -1,0 +1,14 @@
+﻿2013/11/15 08:48:42.409|00000B50|Information|ProcessCmdLineArgs|Found log file switch.  New path to log file = C:\HPCamDrv.log
+2013/11/15 08:48:42.409|00000B50|Information|ProcessCmdLineArgs|New log file path = C:\HPCamDrv.log
+2013/11/15 08:48:42.409|00000B50|Information|WinMain|Command Line:C:\Users\HPPROB~1\AppData\Local\Temp\SSM8822.tmp\EXTRACT\hpqrun.exe -s -l"C:\HPCamDrv.log"
+2013/11/15 08:48:42.409|00000B50|Information|FindMappingFile|Found C:\Users\HPPROB~1\AppData\Local\Temp\SSM8822.tmp\EXTRACT\MAP.INI file
+2013/11/15 08:48:42.409|00000B50|Information|FindSectionName|Found [USB_ID_SILENT] section in INI file
+2013/11/15 08:48:42.409|00000B50|Information|FindKeyID|Found SECTION: [USB_ID]
+2013/11/15 08:48:42.425|00000B50|Information|FindSectionAndKeyStrings|INI section name to read:  USB_ID_SILENT
+2013/11/15 08:48:42.425|00000B50|Information|FindSectionAndKeyStrings|INI key name to read:  USB\VID_04F2&PID_B372
+2013/11/15 08:48:42.425|00000B50|Information|GetTargetExecutable|Target Executable = Chicony\Sunplus\setup.exe /s -f2c:\camera.log
+2013/11/15 08:48:42.425|00000B50|Information|GetTargetExecutable|Cannot find this ID [USB\VID_04F2&PID_B372] in MAP.INI file
+2013/11/15 08:48:42.425|00000B50|Information|ExecuteCmd|g_szTargetExecutable: Chicony\Sunplus\setup.exe /s -f2c:\camera.log, g_szCmdLineParms = 
+2013/11/15 08:48:42.503|00000B50|Information|ExecuteCmd|Launch executable: Chicony\Sunplus\setup.exe /s -f2c:\camera.log successfully
+2013/11/15 08:48:50.662|00000B50|Information|ExecuteCmd|Executable process returns with exit code = 0x0
+2013/11/15 08:48:50.662|00000B50|Information|WinMain|Completed, Return Code: 0
